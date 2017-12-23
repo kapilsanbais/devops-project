@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1514001561,,"wq!"
+|2,0,1514001766,,"wq!"
 :Wq!
 |2,0,1513998977,,"Wq!"
 :q!
@@ -37,36 +37,50 @@ $
 |3,1,0,1,1,0,1514001168,"forth line of project"
 
 # File marks:
-'0  6  18  ~/index.html
-|4,48,6,18,1514001561,"~/index.html"
-'1  26  69  /etc/passwd
-|4,49,26,69,1514001495,"/etc/passwd"
-'2  5  3  ~/index.html
-|4,50,5,3,1514001178,"~/index.html"
-'3  5  3  ~/index.html
-|4,51,5,3,1514001178,"~/index.html"
-'4  4  6  ~/index.html
-|4,52,4,6,1514000995,"~/index.html"
-'5  4  6  ~/index.html
-|4,53,4,6,1514000995,"~/index.html"
-'6  4  6  ~/index.html
-|4,54,4,6,1514000995,"~/index.html"
-'7  4  6  ~/index.html
-|4,55,4,6,1514000995,"~/index.html"
-'8  23  28  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
-|4,56,23,28,1514000770,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
-'9  3  4  ~/index.html
-|4,57,3,4,1514000103,"~/index.html"
+'0  8  19  ~/index.html
+|4,48,8,19,1514001766,"~/index.html"
+'1  6  18  ~/index.html
+|4,49,6,18,1514001561,"~/index.html"
+'2  6  18  ~/index.html
+|4,50,6,18,1514001561,"~/index.html"
+'3  26  69  /etc/passwd
+|4,51,26,69,1514001495,"/etc/passwd"
+'4  5  3  ~/index.html
+|4,52,5,3,1514001178,"~/index.html"
+'5  5  3  ~/index.html
+|4,53,5,3,1514001178,"~/index.html"
+'6  5  3  ~/index.html
+|4,54,5,3,1514001178,"~/index.html"
+'7  5  3  ~/index.html
+|4,55,5,3,1514001178,"~/index.html"
+'8  4  6  ~/index.html
+|4,56,4,6,1514000995,"~/index.html"
+'9  4  6  ~/index.html
+|4,57,4,6,1514000995,"~/index.html"
 
 # Jumplist (newest first):
+-'  8  19  ~/index.html
+|4,39,8,19,1514001766,"~/index.html"
+-'  6  0  ~/index.html
+|4,39,6,0,1514001753,"~/index.html"
 -'  6  18  ~/index.html
 |4,39,6,18,1514001561,"~/index.html"
+-'  5  0  ~/index.html
+|4,39,5,0,1514001549,"~/index.html"
 -'  5  0  ~/index.html
 |4,39,5,0,1514001549,"~/index.html"
 -'  26  69  /etc/passwd
 |4,39,26,69,1514001495,"/etc/passwd"
 -'  26  69  /etc/passwd
 |4,39,26,69,1514001495,"/etc/passwd"
+-'  26  69  /etc/passwd
+|4,39,26,69,1514001495,"/etc/passwd"
+-'  26  69  /etc/passwd
+|4,39,26,69,1514001495,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1514001488,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1514001488,"/etc/passwd"
 -'  1  0  /etc/passwd
 |4,39,1,0,1514001488,"/etc/passwd"
 -'  1  0  /etc/passwd
@@ -75,6 +89,8 @@ $
 |4,39,5,3,1514001178,"~/index.html"
 -'  5  3  ~/index.html
 |4,39,5,3,1514001178,"~/index.html"
+-'  4  0  ~/index.html
+|4,39,4,0,1514001166,"~/index.html"
 -'  4  0  ~/index.html
 |4,39,4,0,1514001166,"~/index.html"
 -'  4  0  ~/index.html
@@ -95,6 +111,8 @@ $
 |4,39,3,0,1514000982,"~/index.html"
 -'  3  0  ~/index.html
 |4,39,3,0,1514000982,"~/index.html"
+-'  3  0  ~/index.html
+|4,39,3,0,1514000982,"~/index.html"
 -'  23  28  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
 |4,39,23,28,1514000770,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
 -'  23  28  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
@@ -127,6 +145,70 @@ $
 |4,39,23,28,1514000770,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
 -'  23  28  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
 |4,39,23,28,1514000770,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  23  28  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,23,28,1514000770,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  23  28  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,23,28,1514000770,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  23  28  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,23,28,1514000770,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  23  28  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,23,28,1514000770,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  23  28  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,23,28,1514000770,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  23  28  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,23,28,1514000770,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  23  28  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,23,28,1514000770,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  23  28  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,23,28,1514000770,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  23  28  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,23,28,1514000770,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  23  28  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,23,28,1514000770,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  23  28  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,23,28,1514000770,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  23  28  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,23,28,1514000770,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  23  28  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,23,28,1514000770,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  23  28  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,23,28,1514000770,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  23  28  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,23,28,1514000770,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  23  28  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,23,28,1514000770,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  1  0  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,1,0,1514000758,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  1  0  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,1,0,1514000758,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  1  0  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,1,0,1514000758,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  1  0  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,1,0,1514000758,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  1  0  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,1,0,1514000758,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  1  0  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,1,0,1514000758,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  1  0  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,1,0,1514000758,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  1  0  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,1,0,1514000758,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  1  0  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,1,0,1514000758,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  1  0  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,1,0,1514000758,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  1  0  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,1,0,1514000758,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  1  0  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,1,0,1514000758,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  1  0  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,1,0,1514000758,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  1  0  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,1,0,1514000758,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  1  0  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,1,0,1514000758,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
+-'  1  0  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
+|4,39,1,0,1514000758,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
 -'  1  0  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
 |4,39,1,0,1514000758,"/var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem"
 -'  1  0  /var/lib/jenkins/workspace/dev-project/key-mumbai-13-07-17.pem
@@ -177,96 +259,14 @@ $
 |4,39,2,0,1514000087,"~/index.html"
 -'  2  0  ~/index.html
 |4,39,2,0,1514000087,"~/index.html"
--'  2  0  ~/index.html
-|4,39,2,0,1514000087,"~/index.html"
--'  2  0  ~/index.html
-|4,39,2,0,1514000087,"~/index.html"
--'  2  0  ~/index.html
-|4,39,2,0,1514000087,"~/index.html"
--'  2  0  ~/index.html
-|4,39,2,0,1514000087,"~/index.html"
--'  2  5  ~/index.html
-|4,39,2,5,1513999282,"~/index.html"
--'  2  5  ~/index.html
-|4,39,2,5,1513999282,"~/index.html"
--'  2  5  ~/index.html
-|4,39,2,5,1513999282,"~/index.html"
--'  2  5  ~/index.html
-|4,39,2,5,1513999282,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1513999270,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1513999270,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1513999270,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1513999270,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1513999270,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1513999270,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1513999270,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1513999270,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1513999270,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1513999270,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1513999270,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1513999270,"~/index.html"
--'  1  0  ~/index.html
-|4,39,1,0,1513999270,"~/index.html"
--'  1  20  ~/index.html
-|4,39,1,20,1513998978,"~/index.html"
--'  1  20  ~/index.html
-|4,39,1,20,1513998978,"~/index.html"
--'  1  20  ~/index.html
-|4,39,1,20,1513998978,"~/index.html"
--'  1  20  ~/index.html
-|4,39,1,20,1513998978,"~/index.html"
--'  1  0  /var/lib/jenkins/jobs/job2/builds/2/log
-|4,39,1,0,1513738601,"/var/lib/jenkins/jobs/job2/builds/2/log"
--'  1  0  /var/lib/jenkins/jobs/job2/builds/2/log
-|4,39,1,0,1513738601,"/var/lib/jenkins/jobs/job2/builds/2/log"
--'  1  0  /var/lib/jenkins/jobs/job2/builds/2/log
-|4,39,1,0,1513738601,"/var/lib/jenkins/jobs/job2/builds/2/log"
--'  1  0  /var/lib/jenkins/jobs/job2/builds/2/log
-|4,39,1,0,1513738601,"/var/lib/jenkins/jobs/job2/builds/2/log"
--'  1  0  /var/lib/jenkins/jobs/job2/builds/2/log
-|4,39,1,0,1513738601,"/var/lib/jenkins/jobs/job2/builds/2/log"
--'  1  0  /var/lib/jenkins/jobs/job2/builds/2/log
-|4,39,1,0,1513738601,"/var/lib/jenkins/jobs/job2/builds/2/log"
--'  1  0  /var/lib/jenkins/jobs/job2/builds/2/log
-|4,39,1,0,1513738601,"/var/lib/jenkins/jobs/job2/builds/2/log"
--'  1  0  /var/lib/jenkins/jobs/job2/builds/2/log
-|4,39,1,0,1513738601,"/var/lib/jenkins/jobs/job2/builds/2/log"
--'  1  0  /var/lib/jenkins/jobs/job2/builds/2/log
-|4,39,1,0,1513738601,"/var/lib/jenkins/jobs/job2/builds/2/log"
--'  1  0  /var/lib/jenkins/jobs/job2/builds/2/log
-|4,39,1,0,1513738601,"/var/lib/jenkins/jobs/job2/builds/2/log"
--'  1  0  /var/lib/jenkins/jobs/job2/builds/2/log
-|4,39,1,0,1513738601,"/var/lib/jenkins/jobs/job2/builds/2/log"
--'  1  0  /var/lib/jenkins/jobs/job2/builds/2/log
-|4,39,1,0,1513738601,"/var/lib/jenkins/jobs/job2/builds/2/log"
--'  1  0  /var/lib/jenkins/jobs/job2/builds/2/log
-|4,39,1,0,1513738601,"/var/lib/jenkins/jobs/job2/builds/2/log"
--'  1  0  /var/lib/jenkins/jobs/job2/builds/2/log
-|4,39,1,0,1513738601,"/var/lib/jenkins/jobs/job2/builds/2/log"
--'  1  0  /var/lib/jenkins/jobs/job2/builds/2/log
-|4,39,1,0,1513738601,"/var/lib/jenkins/jobs/job2/builds/2/log"
--'  1  0  /var/lib/jenkins/jobs/job2/builds/2/log
-|4,39,1,0,1513738601,"/var/lib/jenkins/jobs/job2/builds/2/log"
 
 # History of marks within files (newest to oldest):
 
 > ~/index.html
-	*	1514001557	0
-	"	6	18
-	^	6	19
-	.	6	18
+	*	1514001765	0
+	"	8	19
+	^	8	20
+	.	8	19
 	+	1	20
 	+	1	21
 	+	2	5
@@ -274,6 +274,7 @@ $
 	+	4	4
 	+	5	3
 	+	6	18
+	+	8	19
 
 > /etc/passwd
 	*	1514001494	0
