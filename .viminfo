@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1513998978,,"wq!"
+|2,0,1513999282,,"wq!"
 :Wq!
 |2,0,1513998977,,"Wq!"
 :q!
@@ -32,26 +32,49 @@ $
 # Debug Line History (newest to oldest):
 
 # Registers:
+""0	LINE	0
+	first line of project
+|3,1,0,1,1,0,1513999272,"first line of project"
 
 # File marks:
-'0  1  20  ~/index.html
-|4,48,1,20,1513998978,"~/index.html"
-'1  1  0  /var/lib/jenkins/jobs/job2/builds/2/log
-|4,49,1,0,1513738601,"/var/lib/jenkins/jobs/job2/builds/2/log"
-'2  8  0  /var/lib/jenkins/jobs/job2/builds/2
-|4,50,8,0,1513738589,"/var/lib/jenkins/jobs/job2/builds/2"
-'3  1  0  /var/lib/jenkins/jobs/job2/config.xml
-|4,51,1,0,1513738572,"/var/lib/jenkins/jobs/job2/config.xml"
-'4  1  0  /etc/passwd
-|4,52,1,0,1513738381,"/etc/passwd"
+'0  2  5  ~/index.html
+|4,48,2,5,1513999282,"~/index.html"
+'1  1  20  ~/index.html
+|4,49,1,20,1513998978,"~/index.html"
+'2  1  20  ~/index.html
+|4,50,1,20,1513998978,"~/index.html"
+'3  1  0  /var/lib/jenkins/jobs/job2/builds/2/log
+|4,51,1,0,1513738601,"/var/lib/jenkins/jobs/job2/builds/2/log"
+'4  8  0  /var/lib/jenkins/jobs/job2/builds/2
+|4,52,8,0,1513738589,"/var/lib/jenkins/jobs/job2/builds/2"
+'5  1  0  /var/lib/jenkins/jobs/job2/config.xml
+|4,53,1,0,1513738572,"/var/lib/jenkins/jobs/job2/config.xml"
+'6  1  0  /etc/passwd
+|4,54,1,0,1513738381,"/etc/passwd"
 
 # Jumplist (newest first):
+-'  2  5  ~/index.html
+|4,39,2,5,1513999282,"~/index.html"
+-'  1  0  ~/index.html
+|4,39,1,0,1513999270,"~/index.html"
 -'  1  20  ~/index.html
 |4,39,1,20,1513998978,"~/index.html"
 -'  1  0  /var/lib/jenkins/jobs/job2/builds/2/log
 |4,39,1,0,1513738601,"/var/lib/jenkins/jobs/job2/builds/2/log"
 -'  1  0  /var/lib/jenkins/jobs/job2/builds/2/log
 |4,39,1,0,1513738601,"/var/lib/jenkins/jobs/job2/builds/2/log"
+-'  1  0  /var/lib/jenkins/jobs/job2/builds/2/log
+|4,39,1,0,1513738601,"/var/lib/jenkins/jobs/job2/builds/2/log"
+-'  1  0  /var/lib/jenkins/jobs/job2/builds/2/log
+|4,39,1,0,1513738601,"/var/lib/jenkins/jobs/job2/builds/2/log"
+-'  8  0  /var/lib/jenkins/jobs/job2/builds/2
+|4,39,8,0,1513738589,"/var/lib/jenkins/jobs/job2/builds/2"
+-'  8  0  /var/lib/jenkins/jobs/job2/builds/2
+|4,39,8,0,1513738589,"/var/lib/jenkins/jobs/job2/builds/2"
+-'  8  0  /var/lib/jenkins/jobs/job2/builds/2
+|4,39,8,0,1513738589,"/var/lib/jenkins/jobs/job2/builds/2"
+-'  8  0  /var/lib/jenkins/jobs/job2/builds/2
+|4,39,8,0,1513738589,"/var/lib/jenkins/jobs/job2/builds/2"
 -'  8  0  /var/lib/jenkins/jobs/job2/builds/2
 |4,39,8,0,1513738589,"/var/lib/jenkins/jobs/job2/builds/2"
 -'  8  0  /var/lib/jenkins/jobs/job2/builds/2
@@ -76,6 +99,54 @@ $
 |4,39,1,0,1513738572,"/var/lib/jenkins/jobs/job2/config.xml"
 -'  1  0  /var/lib/jenkins/jobs/job2/config.xml
 |4,39,1,0,1513738572,"/var/lib/jenkins/jobs/job2/config.xml"
+-'  1  0  /var/lib/jenkins/jobs/job2/config.xml
+|4,39,1,0,1513738572,"/var/lib/jenkins/jobs/job2/config.xml"
+-'  1  0  /var/lib/jenkins/jobs/job2/config.xml
+|4,39,1,0,1513738572,"/var/lib/jenkins/jobs/job2/config.xml"
+-'  1  0  /var/lib/jenkins/jobs/job2/config.xml
+|4,39,1,0,1513738572,"/var/lib/jenkins/jobs/job2/config.xml"
+-'  1  0  /var/lib/jenkins/jobs/job2/config.xml
+|4,39,1,0,1513738572,"/var/lib/jenkins/jobs/job2/config.xml"
+-'  1  0  /var/lib/jenkins/jobs/job2/config.xml
+|4,39,1,0,1513738572,"/var/lib/jenkins/jobs/job2/config.xml"
+-'  1  0  /var/lib/jenkins/jobs/job2/config.xml
+|4,39,1,0,1513738572,"/var/lib/jenkins/jobs/job2/config.xml"
+-'  1  0  /var/lib/jenkins/jobs/job2/config.xml
+|4,39,1,0,1513738572,"/var/lib/jenkins/jobs/job2/config.xml"
+-'  1  0  /var/lib/jenkins/jobs/job2/config.xml
+|4,39,1,0,1513738572,"/var/lib/jenkins/jobs/job2/config.xml"
+-'  1  0  /etc/passwd
+|4,39,1,0,1513738381,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1513738381,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1513738381,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1513738381,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1513738381,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1513738381,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1513738381,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1513738381,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1513738381,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1513738381,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1513738381,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1513738381,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1513738381,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1513738381,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1513738381,"/etc/passwd"
+-'  1  0  /etc/passwd
+|4,39,1,0,1513738381,"/etc/passwd"
 -'  1  0  /etc/passwd
 |4,39,1,0,1513738381,"/etc/passwd"
 -'  1  0  /etc/passwd
@@ -112,11 +183,13 @@ $
 # History of marks within files (newest to oldest):
 
 > ~/index.html
-	*	1513998977	0
-	"	1	20
-	^	1	21
-	.	1	20
+	*	1513999281	0
+	"	2	5
+	^	2	6
+	.	2	5
 	+	1	20
+	+	1	21
+	+	2	5
 
 > /var/lib/jenkins/jobs/job2/builds/2/log
 	*	1513738600	0
